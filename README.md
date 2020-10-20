@@ -22,4 +22,4 @@ Image size: 100x100
 Color space: RGB
 
 # GUI PART 
-Tkinter is a GUI toolkit in the standard python library.
+It works well in Windows OS, but have some issue on MAC OS. WILL FIXED IT SOON.
